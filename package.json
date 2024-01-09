@@ -1,0 +1,14 @@
+{
+  "name": "cliente-web",
+  "version": "1.0.0",
+  "description": "Cliente web para interactuar con la API REST.",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Nombre del Autor",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
